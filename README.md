@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work.
 Adding a line for rebasing ex.
 
+More changes from myfeature branch.
+
 ## Introductions
 An introduction to the starter web project
 
