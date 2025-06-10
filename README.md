@@ -16,3 +16,7 @@ Deployment can be in any platform
 ## How to
 1. STEP 1
 2. STEP 2
+
+##Copyright
+
+2025 GIT Training
