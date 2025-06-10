@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Deployment can be in any platform
+Deployment can be in any platform.
 
 ## How to
 1. STEP 1
@@ -23,4 +23,4 @@ Deployment can be in any platform
 
 ##Copyright
 
-2025 GIT Training
+2025 GIT Training. All rights reserved.
