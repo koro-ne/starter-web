@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work.
-Adding a line for rebasing ex.
+Doing emergency fix after stash
 
 More changes from myfeature branch.
 
